@@ -1,1 +1,1 @@
-# Docsify Plugin open-in-github
+# docsify-open-in-github
